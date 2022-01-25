@@ -11,7 +11,7 @@
     grid-template-area: 
         "header header header header"
         "advert advert content content"
-        "advert advert content content"
+        "footer footer content content"
 }
 #lightcyan {
     background:  rgba(74,190,189,255); 
