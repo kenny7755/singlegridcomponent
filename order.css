@@ -14,7 +14,7 @@
         "content content advert advert"
 }
 #whitebox {
-    background:  red; 
+    background:  rgba(74,190,189,255); 
 ; 
     grid-area: content;
 }
