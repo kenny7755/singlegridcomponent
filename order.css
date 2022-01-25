@@ -17,5 +17,5 @@
 }
 #darkcyan {
    background: rgb(62,183,183);
-    grid-area: advert;
+    grid-row: 3/3;
 }
