@@ -7,11 +7,11 @@
     background: white;
     margin-left: auto; 
     margin-right: auto;
+          display: grid;
     grid-template-area: 
         "header header header header"
         "content content advert advert"
         "content content advert advert"
-        display: grid;
 }
 #whitebox {
     background: rgba(74,190,189,255)
