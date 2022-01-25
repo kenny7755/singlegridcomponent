@@ -11,6 +11,7 @@
         "header header header header"
         "content content advert advert"
         "content content advert advert"
+        display: grid;
 }
 #whitebox {
     background: rgba(74,190,189,255)
