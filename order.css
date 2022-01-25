@@ -10,8 +10,8 @@
           display: grid;
     grid-template-area: 
         "header header header header"
-        "content content advert advert"
-        "content content advert advert"
+        "advert advert content content"
+        "advert advert content content"
 }
 #lightcyan {
     background:  rgba(74,190,189,255); 
