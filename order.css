@@ -7,4 +7,8 @@
     background: white;
     margin-left: auto; 
     margin-right: auto;
+    grid-template-area: 
+        "header header header header"
+        "content content advert advert"
+        "content content advert advert"
 }
