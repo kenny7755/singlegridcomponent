@@ -14,7 +14,7 @@
         "content content advert advert"
 }
 #whitebox {
-    background:  hsl(179, 62%, 43%); 
+    background:  red; 
 ; 
     grid-area: content;
 }
